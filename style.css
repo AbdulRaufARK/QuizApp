@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#ShowQuestion{
+    height: 20vh;
+    border: 1px solid black;
+}
+.question{
+    width: 20rem;
+}
